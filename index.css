@@ -1,0 +1,193 @@
+.nav-link{
+    font-size: 25px;
+    color: #264a9f !important;
+    font-family: 'Baloo Bhai 2',cursive;
+}
+body{
+    width: 99%;
+    
+}
+.bg{
+    background-color:#f8f9fa;
+    width:100%;
+    height: 80px;
+}
+.list{
+   
+    padding-right: 35px;
+}
+.fontsize{
+    font-size: 20px;
+}
+.img{
+  margin:auto 5px;
+ 
+}
+.image{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.self-btn{
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(255, 255, 255) transparent;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.para{
+    text-align: justify;
+    font-family: 'Baloo Bhai 2',cursive;
+    font-size: 18px;
+}
+#head{
+    color: #264a9f;
+    margin-top: 20px;
+}
+.banner{
+   display: flex;
+   justify-content: space-around;
+   height: 400px;
+   width: 100%;
+}
+
+.para1{
+    margin-top: 120px;
+    font-family:'Baloo Bhai 2',cursive;
+    font-size: 17px;
+}
+.wht_offered_heading{
+    color:#264a9f;
+    font-size: 28px !important;
+    margin: 0px 0px 28px 48px;
+}
+
+.WhatOffered_list_items__3iWeB li {
+    list-style-type: none;
+    font-size: 13px;
+    margin: 0px 0px 28px 48px;
+}
+
+.WhatOffered_list_items__3iWeB li:before {
+    content: "";
+    background: url(/checkmark.svg),transparent -webkit-linear-gradient(174deg,rgba(13,53,148,.898039),#35d3e1) 0 0 no-repeat padding-box;
+    background: url(/checkmark.svg),transparent linear-gradient(276deg,rgba(13,53,148,.898039),#35d3e1) 0 0 no-repeat padding-box;
+    height: 36px;
+    width: 36px;
+    display: block;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    position: absolute;
+    left: 14px;
+    margin: 0px 0px 28px 48px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.secondLastFooter_bgImg__15Zji {
+    background-image: url(/footerBgImage1.svg);
+    background-size: contain;
+    background-position: right 2rem center;
+    background-repeat: no-repeat;
+    min-height: 50px;
+    border-bottom: 2px dotted #999;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.CustomCard{
+    box-shadow: 3px 3px 6px #bfc3bf;
+    border-radius: 10px;
+    background-color: rgba(230,231,236,255);
+
+}
+.card{
+    position: relative;
+    display: flex;
+  color: #bfc3bf;
+}
+.lnk a{
+  text-decoration: none;
+  
+  color: grey;
+  padding-top: 20px;
+  
+}
+.brd{
+    border-radius: 20px;
+    height: 600px;
+    
+}
+.head{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.can{
+    /* margin-right: 10px; */
+    padding-left: 10px;
+ padding-right: 10px;
+}
+.select{
+    
+
+border-radius: 20px;
+border-style: inset;
+
+padding: 5px;
+background-color:rgba(230,231,236,255); 
+border-style:hidden; 
+background-color:rgba(230,231,236,250); 
+
+
+}
+label{
+text-align: center;
+}
+
+.inputInfoLabel {
+color: #071e54;
+opacity: .4;
+font-size: 11px;
+margin-left: 25px;
+margin-bottom: 12px;
+}
+.bat{
+
+
+
+width: 100%;
+border-radius: 20px;
+border: none;
+padding: 8px 10px;
+
+color: rgba(7,30,84,.3);
+font-size: 13px;
+}
+
+
+
+.globalButton {
+min-height: 35px;
+font-weight: 500;
+background-color: aqua !important;
+}
+.details{
+    width: 1400px;
+}
